@@ -1,9 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ChangeListManager">
+    <list default="true" id="31d1551a-d82f-4848-99a4-9d60a44a3b0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-router" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-uri" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-loader" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-component-installer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-http" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-validator" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-json" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-view" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mvc" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-development-mode" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/brick/varexporter" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-config" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-modulemanager" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jHoMHD82SCUBxYkwCcCY8MlnoG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="ComposerRunConfigurationType" factoryName="Composer Script" temporary="true">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <option name="script" value="serve" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Composer Script.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d1551a-d82f-4848-99a4-9d60a44a3b0b" name="Default Changelist" comment="" />
+      <created>1603470328459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603470328459</updated>
+      <workItem from="1603470329525" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="32" key="SettingsEditor" timestamp="1603470386474">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="187" y="32" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1603470386474" />
   </component>
 </project>
