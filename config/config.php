@@ -15,6 +15,8 @@ $cacheConfig = [
 $aggregator = new ConfigAggregator([
 
     // Libraries
+    \Laminas\Router\ConfigProvider::class,
+    \Laminas\Validator\ConfigProvider::class,
 
     // Module
 

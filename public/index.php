@@ -2,6 +2,7 @@
 
 declare(strict_types=1);
 
+use Laminas\Mvc\Application;
 use Psr\Container\ContainerInterface;
 
 // Delegate static file requests back to the PHP built-in webserver
@@ -17,10 +18,12 @@ chdir(dirname(__DIR__));
 require 'vendor/autoload.php';
 
 (function () {
-    // Retrieve service manager
+    // Retrieve the service manager
     /** @var ContainerInterface $container */
     $container = require 'config/container.php';
 
+    // Retrieve the application
+    /** @var Application $application */
     $application = $container->get('Application');
 
     // Run the application!
